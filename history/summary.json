@@ -4,7 +4,7 @@
     "url": "https://www.wiesendahl.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.wiesendahl.de.ico",
     "slug": "wiesendahl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 653,
     "timeMonth": 656,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 0
+    }
   }
 ]
